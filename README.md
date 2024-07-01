@@ -25,3 +25,8 @@ Background image and font styles can be updated to suit your design.
 HTML validation attributes ensure essential information is provided.
 Customize the form to align with your project's requirements.
 Feel free to modify this survey form to fit your specific needs. Keep it simple, and adapt it easily for your projects.
+
+# Project Structure
+Here are there some screen shot of the project
+![Screenshot (92)](https://github.com/manikantayya/Survey-Form/assets/74826423/bdbbd61f-60ff-4820-971c-22b42c84c415)
+![Screenshot (91)](https://github.com/manikantayya/Survey-Form/assets/74826423/0fd8a3bf-0f4e-4615-814f-e68f665442e0)
